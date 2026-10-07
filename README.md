@@ -12,7 +12,7 @@ I have 9 years of field experience and currently work at Gas & Oil Pakistan Ltd.
 - AI-assisted business websites and ERP projects
 
 ### Portfolio
-[Explore my projects and certificates](https://kaleemullah-sabir.github.io/Kaleemullah-sabir/)
+[Explore my projects and certificates](https://kaleemullah-sabir.github.io/kaleemullah-sabir/)
 <!--
 **kaleemullah-sabir/kaleemullah-sabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
