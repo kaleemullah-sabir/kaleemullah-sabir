@@ -1,18 +1,23 @@
-# Hi, I'm Kaleem Ullah Sabir
+# Kaleem Ullah Sabir
 
-Retail Engineering Officer | Power BI & Excel | Building dashboards and practical tools for maintenance, project tracking, and business reporting.
+**Retail Engineering Officer | Power BI & Excel**
+Dashboards and practical tools for maintenance reporting, project tracking and business operations. 9 years of field experience, currently at Gas & Oil Pakistan Ltd.
 
-I have 9 years of field experience and currently work at Gas & Oil Pakistan Ltd.
+## What I work on
 
-### My Work
 - Retail engineering and maintenance reporting
 - Power BI and Excel dashboards
 - Project monitoring and vendor coordination
-- Excel expense tracking, quotation and cutting size tools
+- Excel tools: expense tracking, quotations, cutting sizes
 - AI-assisted business websites and ERP projects
 
-### Portfolio
+## Portfolio
+
 [Explore my projects and certificates](https://kaleemullah-sabir.github.io/kaleemullah-sabir/)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/kaleemullah-sabir) · kaleemullah0818@gmail.com
 <!--
 **kaleemullah-sabir/kaleemullah-sabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
